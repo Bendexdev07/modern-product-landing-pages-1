@@ -136,7 +136,7 @@ export default function Pricing() {
           })}
         </div>
         <div className="mt-8 sm:mt-12 text-center">
-          <p className="text-gray-400 text-base text-xl ">need a custom plan?<a href="#" className="text-blue-400 hover:text-blue-300 " >contact our slaes team</a></p>
+          <p className="text-gray-400 text-base text-xl ">need a custom plan?<a href="#" className="text-blue-400 hover:text-blue-300 " >contact our sales team</a></p>
         </div>
       </div>
     </section>
