@@ -2,8 +2,7 @@
 
 A sleek, responsive, and performant landing page template built with **React** and **Vite** — designed to showcase your product with style and speed.
 
-![Preview](https://modern-product-landing-pages-v1.vercel.app/) 
-
+live site url :https://modern-product-landing-pages-v1.vercel.app/
 ## ✨ Features
 
 - 🚀 Blazing fast (powered by Vite)
