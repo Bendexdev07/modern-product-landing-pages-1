@@ -2,7 +2,7 @@
 
 A sleek, responsive, and performant landing page template built with **React** and **Vite** — designed to showcase your product with style and speed.
 
-![Preview](https://placehold.co/800x400?text=Modern+Landing+Page+Preview) <!-- Replace with actual screenshot when available -->
+![Preview](https://modern-product-landing-pages-v1.vercel.app/) 
 
 ## ✨ Features
 
