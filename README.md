@@ -15,7 +15,7 @@ live site url :https://modern-product-landing-pages-v1.vercel.app/
 
 - **Framework**: React 18
 - **Bundler**: Vite
-- **Styling**: CSS Modules / Tailwind CSS *(choose one based on your setup)*
+- **Styling**: CSS Modules / Tailwind CSS 
 - **Deployment**: Vercel
 
 ## 📦 Installation
